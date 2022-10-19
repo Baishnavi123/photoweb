@@ -1,8 +1,7 @@
 
 # Photoweb
 
-It's a website of a photography.The technology i have used inside this assessment HTML,CSS,Javascript,Bootstrap,MySql.Mainly we have focused on creating a Login and logout flow which is connected to database and also created a Contact us page 
-
+It is a photography website. I utilised the following technologies for this assessment: HTML, CSS, Javascript, Bootstrap, and MySql. We have mostly concentrated on developing a Login and Logout flow that is related to a database, and we have also received requests for pictures.
 
 ## Screenshots
 
