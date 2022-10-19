@@ -6,5 +6,5 @@ It's a website of a photography.The technology i have used inside this assessmen
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/Baishnavi123/photoweb/main/Screenshot/Screenshot%20(118).png)
 
