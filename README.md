@@ -6,4 +6,5 @@ It is a photography website. I utilised the following technologies for this asse
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/Baishnavi123/photoweb/main/Screenshot/Screenshot%20(118).png)
+(https://raw.githubusercontent.com/Baishnavi123/photoweb/main/Screenshot/Screenshot%20(120).png)
 
