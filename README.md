@@ -24,3 +24,21 @@ Customers may contact the photographer using this website by choosing the date o
 ![App Screenshot](https://raw.githubusercontent.com/Baishnavi123/photoweb/main/Screenshot/Screenshot%20(121).png)
 
 The photographer will be able to see the individuals who are requested for shooting using the admin login, which will appear on the dashboard.
+
+## Features
+
+- Different technologies are used 
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+## Environment Variables
+
+To run this project, you will need to add the following environment 
+-browser(eg:Google chrome)
+-XAMPP control panel
+-visual studio code
+
+## Demo
+
+
